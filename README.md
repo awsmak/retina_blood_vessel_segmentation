@@ -6,5 +6,5 @@ This is an implementation of UNET on Python 3, for semantic segmentation of the 
 - Dataset : https://www.kaggle.com/datasets/zionfuo/drive2004
 
 # Dataset
-[image](/dataset/training/images/21_training.tifexample.jpg)
+[image](dataset/training/images/21_training.tif) | [mask](dataset/training/images/21_training.tif) 
 - 
